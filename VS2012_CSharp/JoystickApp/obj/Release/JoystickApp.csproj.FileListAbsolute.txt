@@ -1,0 +1,9 @@
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\JoystickApp.exe
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\JoystickApp.pdb
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\SharpDX.DirectInput.dll
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\SharpDX.dll
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\SharpDX.xml
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\bin\Release\SharpDX.DirectInput.xml
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\obj\Release\JoystickApp.exe
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\obj\Release\JoystickApp.pdb
+C:\Users\Lukas\Documents\Visual Studio 2012\Projects\SharpDX\Samples\DirectInput\JoystickApp\obj\Release\JoystickApp.csprojResolveAssemblyReference.cache
